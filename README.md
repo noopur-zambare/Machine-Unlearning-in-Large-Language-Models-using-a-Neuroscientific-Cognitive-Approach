@@ -17,14 +17,14 @@ Our brains are remarkable devices that can learn new things, but what happens wh
 
 
 ### Algorithm
-Markup :  1. Processing of Input: An input job or text is given to the LLM.
-          2. Attention Allocation: Based on the input, the Attention Mechanism distributes resources across pertinent concepts in the Memory System.
-          3. Output Generation: Using the information it has received and its internal thought processes, the LLM produces an output.
-          4. Error Detection: The Error Detection Unit looks for internal discrepancies or compares the output with sources outside of the system.
-          5. Reconsolidation Trigger: The Error Detection Unit notifies the Reconsolidation Window to open for concepts associated with the error if an error is found.
-          6. Memory Update: Ideas that were previously inactive during the Reconsolidation Window are now reactivated and open to change.
-          7. Feedback Integration: The Memory System and the Attention Mechanism receive information regarding the error and possible fixes from the Feedback Loop.
-          8. Memory Modification: In response to feedback, the Memory System modifies representations of pertinent concepts, possibly erasing or weakening information associated with the error.
-          9. Attention Bias Refinement: In response to changes in the Memory System, the Attention Mechanism modifies its focus, giving corrected information priority and downplaying previously contradictory concepts.
-          10. Adaptive Learning: By iteratively strengthening the LLM's knowledge base and enhancing its capacity to unlearn inaccurate or out-of-date information, this process is carried on with subsequent inputs.
+1. Processing of Input: An input job or text is given to the LLM.
+2. Attention Allocation: Based on the input, the Attention Mechanism distributes resources across pertinent concepts in the Memory System.
+3. Output Generation: Using the information it has received and its internal thought processes, the LLM produces an output.
+4. Error Detection: The Error Detection Unit looks for internal discrepancies or compares the output with sources outside of the system.
+5. Reconsolidation Trigger: The Error Detection Unit notifies the Reconsolidation Window to open for concepts associated with the error if an error is found.
+6. Memory Update: Ideas that were previously inactive during the Reconsolidation Window are now reactivated and open to change.
+7. Feedback Integration: The Memory System and the Attention Mechanism receive information regarding the error and possible fixes from the Feedback Loop.
+8. Memory Modification: In response to feedback, the Memory System modifies representations of pertinent concepts, possibly erasing or weakening information associated with the error.
+9. Attention Bias Refinement: In response to changes in the Memory System, the Attention Mechanism modifies its focus, giving corrected information priority and downplaying previously contradictory concepts.
+10. Adaptive Learning: By iteratively strengthening the LLM's knowledge base and enhancing its capacity to unlearn inaccurate or out-of-date information, this process is carried on with subsequent inputs.
 
