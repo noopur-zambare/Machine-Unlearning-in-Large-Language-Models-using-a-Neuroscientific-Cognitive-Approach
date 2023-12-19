@@ -3,6 +3,7 @@
 Our brains are remarkable devices that can learn new things, but what happens when we have to let go of knowledge that is out of date or inaccurate? In the human brain, unlearning is a complicated process with many steps that involve a fascinating balance of neurons and memories.
 
 
+
 ### Brain & Unlearning
 - Recognizing the Glitch: The brain's competing messages are the first step in this. Consider the firing of two neurons, each of which represents a distinct memory. They clash, sending up a warning flag, an inside "huh?" Emotions also have an impact. The brain marks something for further examination if it feels odd. Unlearning can be triggered even by external feedback.
   
@@ -11,9 +12,11 @@ Our brains are remarkable devices that can learn new things, but what happens wh
 - Integrating New Knowledge: Our brains actively engage with new information in the dynamic cognitive process of "active learning," making an effort to reconcile it with what we already know. This entails complex modifications, such as enhancing some neuronal connections, attenuating others, and sometimes creating completely new ones. The brain is excellent at finding patterns in incoming information, much like an advanced pattern recognition machine. New information fits into the pre-existing knowledge network when it is consistent with the patterns, which makes learning more effective. Moreover, the brain has built-in error repair mechanisms that are similar to self-editing mental proofreading. These integrated feedback loops continuously check for logical mistakes and inconsistencies. When they are detected, these systems trigger the adjustments that are required to keep our mental model accurate and continuously improved.
 
 
+
 ### Working of Neuroscientific-Cognitive Approach for Machine Unlearning
 - Developed and improved a state-of-the-art unlearning algorithm for Large Language Models by adding extensive representations of the memory system, modulations of the attention mechanism, and other cognitive processes motivated by neuroscience.
 - Created an adaptive threshold mechanism for the reconsolidation window to optimise unlearning timing and requirement depending on error severity, concept usage frequency, and emotional connotations.
+
 
 
 ### Algorithm
